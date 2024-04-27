@@ -38,7 +38,7 @@ Developed a versatile IoT tracker using **A9G module** and **ESP32C3 microcontro
 - Utilized SVM and Count Vectorizer to efficiently process and classify large volumes of reviews.
 - Improved the ability to classify reviews by analyzing textual data and extracting meaningful features.
 - Created a reliable and efficient solution for sentiment analysis in the context of customer reviews.
-![Restaurant Review](https://github.com/srinivas77777775/RavipatiSrinivas-Portfolio/blob/12baae48a35b6d1ac471a7253b6632e010204be8/assets/restaurant-review-sentiment-analysis-1-2048.webp)
+![Restaurant Review](/assets/restaurant-review-sentiment-analysis-1-2048.webp)
 
 ### Implementation of Link State Routing and Distance Vector Routing
 
