@@ -1,3 +1,6 @@
+## About
+Results-driven professional seeking a challenging position in a reputable organization to enhance skills and drive significant growth. Demonstrated exceptional teamwork abilities, effectively collaborating with diverse teams to achieve common goals. Strong communication and interpersonal skills, adept at fostering positive relationships with colleagues, clients, and stakeholders. Committed to making a valuable contribution to organizational success.
+
 ## Education
 - **B. Tech**, Electronics and Communication Engineering | Sastra Deemed University (2020-2024)(**8.2875 CGPA**)							       		
 - **Intermediate**, MPC	| Sri Chaitanya JR College (2018-2020)(**97.50 %**)	 			        		
