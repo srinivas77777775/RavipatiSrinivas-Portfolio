@@ -14,4 +14,4 @@
 [Publication](https://www.researchgate.net/publication/378139433_Multi-versatile_IoT_Tracker_for_Enhanced_Monitoring_and_Tracking_Applications)
 
 Developed a versatile IoT tracker using **A9G module** and **ESP32C3 microcontroller** for enhanced monitoring and tracking applications. Designed the tracker to cater to multiple purposes such as tracking vehicles, pets, and personal belongings. Implemented advanced features to ensure accurate and real-time tracking of the targeted objects. Leveraged the potential of IoT technology to create a reliable and efficient tracking solution. Demonstrated passion for innovation and problem-solving through the development of this project.
-![Block Diagram](assets/Screenshot 2024-04-27 165641.jpg)
+![Block Diagram](https://github.com/srinivas77777775/RavipatiSrinivas-Portfolio/blob/903a54d860e83898a2707f4052bea1ce02991893/assets/block_diagram.jpg)
