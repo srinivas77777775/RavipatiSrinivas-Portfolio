@@ -56,7 +56,7 @@ Developed a versatile IoT tracker using **A9G module** and **ESP32C3 microcontro
 - Employed machine learning algorithms to train the predictive model and optimize its accuracy
 - Demonstrated a strong passion for finance and data analysis by successfully predicting future stock prices using the developed model.
 
-![Stock_Price_prediction](https://github.com/srinivas77777775/RavipatiSrinivas-Portfolio/blob/ed5c1c0d0ccc302ec9441d423324a15189b4fb53/assets/stockpriceprediction-230628120004-f6da6504-thumbnail.webp)
+![Stock_Price_prediction](/assets/stockpriceprediction-230628120004-f6da6504-thumbnail.webp)
 
 ## Publications
 
