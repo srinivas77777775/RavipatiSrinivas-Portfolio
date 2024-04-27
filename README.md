@@ -15,7 +15,7 @@
 
 Developed a versatile IoT tracker using **A9G module** and **ESP32C3 microcontroller** for enhanced monitoring and tracking applications. Designed the tracker to cater to multiple purposes such as tracking vehicles, pets, and personal belongings. Implemented advanced features to ensure accurate and real-time tracking of the targeted objects. Leveraged the potential of IoT technology to create a reliable and efficient tracking solution. Demonstrated passion for innovation and problem-solving through the development of this project.
 ![Block Diagram](/assets/block_diagram.jpg)
-![Hardware Construction](https://github.com/srinivas77777775/RavipatiSrinivas-Portfolio/blob/bd80d28929b06462da6c407eccadccc9c0b38bfe/assets/Hardware_Construction.png)
+![Hardware Construction](/assets/Hardware_Construction.png)
 
 ### Design and Development of DL framework for classification and grading of Diabetic Retinopathy from fundus image.
 
