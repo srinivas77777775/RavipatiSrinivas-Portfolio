@@ -35,4 +35,4 @@ Developed a versatile IoT tracker using **A9G module** and **ESP32C3 microcontro
 - Developed detailed code implementations for both algorithms to facilitate practical understanding and application
 - Emphasized the objective of identifying the fastest or optimal route for data transmission through the analysis and implementation of these routing algorithms
 - Successfully demonstrated the impact of these algorithms in improving the efficiency and performance of data transmission processes
-![LinkState_Distance_vector_routing](https://github.com/srinivas77777775/RavipatiSrinivas-Portfolio/blob/12baae48a35b6d1ac471a7253b6632e010204be8/assets/restaurant-review-sentiment-analysis-1-2048.webp)
+![LinkState_Distance_vector_routing](https://github.com/srinivas77777775/RavipatiSrinivas-Portfolio/blob/0fdce3e2d8eef84b72eced9dce95c5d08dd575da/assets/Linkstate.png)
