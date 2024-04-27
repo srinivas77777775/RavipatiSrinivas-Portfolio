@@ -14,7 +14,9 @@
 [Publication](https://ieeexplore.ieee.org/document/10395291)
 
 Developed a versatile IoT tracker using **A9G module** and **ESP32C3 microcontroller** for enhanced monitoring and tracking applications. Designed the tracker to cater to multiple purposes such as tracking vehicles, pets, and personal belongings. Implemented advanced features to ensure accurate and real-time tracking of the targeted objects. Leveraged the potential of IoT technology to create a reliable and efficient tracking solution. Demonstrated passion for innovation and problem-solving through the development of this project.
+
 ![Block Diagram](/assets/block_diagram.jpg)
+
 ![Hardware Construction](/assets/Hardware_Construction.png)
 
 ### Design and Development of DL framework for classification and grading of Diabetic Retinopathy from fundus image.
@@ -38,6 +40,7 @@ Developed a versatile IoT tracker using **A9G module** and **ESP32C3 microcontro
 - Utilized SVM and Count Vectorizer to efficiently process and classify large volumes of reviews.
 - Improved the ability to classify reviews by analyzing textual data and extracting meaningful features.
 - Created a reliable and efficient solution for sentiment analysis in the context of customer reviews.
+
 ![Restaurant Review](/assets/restaurant-review-sentiment-analysis-1-2048.webp)
 
 ### Implementation of Link State Routing and Distance Vector Routing
@@ -46,6 +49,7 @@ Developed a versatile IoT tracker using **A9G module** and **ESP32C3 microcontro
 - Developed detailed code implementations for both algorithms to facilitate practical understanding and application
 - Emphasized the objective of identifying the fastest or optimal route for data transmission through the analysis and implementation of these routing algorithms
 - Successfully demonstrated the impact of these algorithms in improving the efficiency and performance of data transmission processes
+
 ![LinkState_Distance_vector_routing](/assets/Linkstate.png)
 
 ### Stock Price Prediction Using Machine Learning
