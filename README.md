@@ -17,6 +17,17 @@ Developed a versatile IoT tracker using **A9G module** and **ESP32C3 microcontro
 ![Block Diagram](https://github.com/srinivas77777775/RavipatiSrinivas-Portfolio/blob/903a54d860e83898a2707f4052bea1ce02991893/assets/block_diagram.jpg)
 ![Hardware Construction](https://github.com/srinivas77777775/RavipatiSrinivas-Portfolio/blob/bd80d28929b06462da6c407eccadccc9c0b38bfe/assets/Hardware_Construction.png)
 
+### Design and Development of DL framework for classification and grading of Diabetic Retinopathy from fundus image.
+
+- Diabetic Retinopathy is a serious eye disorder which leads to vision loss and blindness. It is essential to detect DR in advance in order to prevent worsening.
+- The purpose of this project is to create and deploy a capable deep learning model for the classification and diagnosis of various levels of diabetic retinopathy through retinal fundus images.
+- DR Can be divided into 2 types depending on the fundus images. They are **Non-Proliferative DR(NPDR)**, **Proliferative DR(PDR)**, No DR. Again, NPDR is categorized as 3 types. They are **Mild diabetic retinopathy**, **Moderate diabetic retinopathy**, and **Severe diabetic retinopathy**.
+- Image preprocessing methods were utilized for enhancement of image quality.
+- **CLAHE preprocessing** method was employed for preprocessing.
+- Used models in this project are **VGG-16**, **Xception**, **Densenet 121**. Multiclass classification of images was done. Each model gives higher accuracies which shows the perfect working of the models. 
+
+![Bike Study](/assets/img/bike_study.jpeg)
+
 ### Restaurant Review - Sentiment Analysis
 
 - Developed a machine learning model utilizing Support Vector Classifier (SVM) and Count Vectorizer.
@@ -46,3 +57,5 @@ Developed a versatile IoT tracker using **A9G module** and **ESP32C3 microcontro
 - Demonstrated a strong passion for finance and data analysis by successfully predicting future stock prices using the developed model.
 
 ![Stock_Price_prediction](https://github.com/srinivas77777775/RavipatiSrinivas-Portfolio/blob/ed5c1c0d0ccc302ec9441d423324a15189b4fb53/assets/stockpriceprediction-230628120004-f6da6504-thumbnail.webp)
+
+
