@@ -19,7 +19,7 @@ Developed a versatile IoT tracker using **A9G module** and **ESP32C3 microcontro
 
 ### Restaurant Review - Sentiment Analysis
 
-Developed a machine learning model utilizing Support Vector Classifier (SVM) and Count Vectorizer.
+- Developed a machine learning model utilizing Support Vector Classifier (SVM) and Count Vectorizer.
 - Used two methods to predict the label (positive or negative) of reviews.
 - Successfully implemented the model to accurately classify reviews based on sentiment.
 - Demonstrated the effectiveness of the model by achieving high accuracy in predicting review labels.
@@ -27,3 +27,10 @@ Developed a machine learning model utilizing Support Vector Classifier (SVM) and
 - Utilized SVM and Count Vectorizer to efficiently process and classify large volumes of reviews.
 - Improved the ability to classify reviews by analyzing textual data and extracting meaningful features.
 - Created a reliable and efficient solution for sentiment analysis in the context of customer reviews.
+
+### Implementation of Link State Routing and Distance Vector Routing
+
+= Conducted a comprehensive analysis of two well-known routing algorithms, Dijkstra's/Link state Routing and Distance Vector Routing/Bellman Ford's Algorithms, to determine the most efficient path for data transmission
+- Developed detailed code implementations for both algorithms to facilitate practical understanding and application
+- Emphasized the objective of identifying the fastest or optimal route for data transmission through the analysis and implementation of these routing algorithms
+- Successfully demonstrated the impact of these algorithms in improving the efficiency and performance of data transmission processes
