@@ -26,7 +26,7 @@ Developed a versatile IoT tracker using **A9G module** and **ESP32C3 microcontro
 - **CLAHE preprocessing** method was employed for preprocessing.
 - Used models in this project are **VGG-16**, **Xception**, **Densenet 121**. Multiclass classification of images was done. Each model gives higher accuracies which shows the perfect working of the models. 
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![DR_Images](https://github.com/srinivas77777775/RavipatiSrinivas-Portfolio/blob/71d23d30fa237a7b071e2ecdedd90baebdc3cf79/assets/DRImages.png)
 
 ### Restaurant Review - Sentiment Analysis
 
