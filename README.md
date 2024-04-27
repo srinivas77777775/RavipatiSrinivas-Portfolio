@@ -62,10 +62,6 @@ Developed a versatile IoT tracker using **A9G module** and **ESP32C3 microcontro
 
 ![Stock_Price_prediction](/assets/stockpriceprediction-230628120004-f6da6504-thumbnail.webp)
 
-## Publications
-
-1. C. Manikandan, C. Jaiseeli, D. L. Vikas, C. V. Vardhan, B. V. Sai and R. Srinivas, "Multi-Versatile IoT Tracker for Enhanced Monitoring and Tracking Applications," 2023 7th International Conference on Electronics, Communication and Aerospace Technology (ICECA), Coimbatore, India, 2023, pp. 1579-1585, doi: 10.1109/ICECA58529.2023.10395291. [Link](https://ieeexplore.ieee.org/document/10395291)
-
 ## Certifications
 
 - Machine Learning with python course offered by verzeo.[Certificate](https://drive.google.com/file/d/1B9VK0UhRy-MiSavTv7TKV0XoJLtGjQH5/view?usp=drivesdk)
@@ -73,6 +69,10 @@ Developed a versatile IoT tracker using **A9G module** and **ESP32C3 microcontro
 - Cloud Computing course offered by NPTEL.[Certificate](https://drive.google.com/file/d/1On6GloTMuV_S0w3xWYKYdEb7lTVjALis/view?usp=drivesdk)
 - Python course offered by GUVI Geek Networks.[Certificate](https://drive.google.com/file/d/1BKUkYyltReSmIInG4NsCTol3bq1ia5kJ/view?usp=drivesdk)
 - Database Management System course offered by Great Learning.[Certificate](https://drive.google.com/file/d/1BJrcPLx1qQmRnL83ESxP6guZeF86PFYj/view?usp=drivesdk)
+
+## Publications
+
+C. Manikandan, C. Jaiseeli, D. L. Vikas, C. V. Vardhan, B. V. Sai and R. Srinivas, "Multi-Versatile IoT Tracker for Enhanced Monitoring and Tracking Applications," 2023 7th International Conference on Electronics, Communication and Aerospace Technology (ICECA), Coimbatore, India, 2023, pp. 1579-1585, doi: 10.1109/ICECA58529.2023.10395291. [Link](https://ieeexplore.ieee.org/document/10395291)
 
 ## Impersonal Skills
 
