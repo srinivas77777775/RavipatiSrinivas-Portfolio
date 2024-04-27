@@ -45,4 +45,4 @@ Developed a versatile IoT tracker using **A9G module** and **ESP32C3 microcontro
 - Employed machine learning algorithms to train the predictive model and optimize its accuracy
 - Demonstrated a strong passion for finance and data analysis by successfully predicting future stock prices using the developed model.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Stock_Price_prediction](/assets/img/bike_study.jpeg)
