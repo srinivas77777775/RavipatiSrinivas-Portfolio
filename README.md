@@ -1,17 +1,17 @@
 ## Education
-- B. Tech., Electronics and Communication Engineering | Sastra Deemed University (2020-2024)								       		
-- Intermediate., MPC	| Sri Chaitanya JR College (2018-2020)	 			        		
-- SSC. | Sri Chaitanya Techno School (2017-2018)
+- **B. Tech**, Electronics and Communication Engineering | Sastra Deemed University (2020-2024)								       		
+- **Intermediate**, MPC	| Sri Chaitanya JR College (2018-2020)	 			        		
+- **SSC** | Sri Chaitanya Techno School (2017-2018)
 
 ### Technical Skills
-- Languages : C, C++, Java, Python, SQL
+- **Languages** : C, C++, Java, Python, SQL
 - Data structures and Algorithms, Database Management System
 - Matlab, AutoCAD, knowledge in IOT and programming for Arduino & ESP32
-- Tools : NetBeans , Eclipse IDE, PyCharm, ModelSim, Android Studio
+- **Tools** : NetBeans , Eclipse IDE, PyCharm, ModelSim, Android Studio
 
 ## Projects
 ### Multi-Versatile IoT Tracker for Enhanced Monitoring and Tracking Applications
-[Publication](https://www.researchgate.net/publication/378139433_Multi-versatile_IoT_Tracker_for_Enhanced_Monitoring_and_Tracking_Applications)
+[Publication](https://ieeexplore.ieee.org/document/10395291)
 
 Developed a versatile IoT tracker using **A9G module** and **ESP32C3 microcontroller** for enhanced monitoring and tracking applications. Designed the tracker to cater to multiple purposes such as tracking vehicles, pets, and personal belongings. Implemented advanced features to ensure accurate and real-time tracking of the targeted objects. Leveraged the potential of IoT technology to create a reliable and efficient tracking solution. Demonstrated passion for innovation and problem-solving through the development of this project.
 ![Block Diagram](https://github.com/srinivas77777775/RavipatiSrinivas-Portfolio/blob/903a54d860e83898a2707f4052bea1ce02991893/assets/block_diagram.jpg)
@@ -58,4 +58,6 @@ Developed a versatile IoT tracker using **A9G module** and **ESP32C3 microcontro
 
 ![Stock_Price_prediction](https://github.com/srinivas77777775/RavipatiSrinivas-Portfolio/blob/ed5c1c0d0ccc302ec9441d423324a15189b4fb53/assets/stockpriceprediction-230628120004-f6da6504-thumbnail.webp)
 
+## Publications
 
+1. C. Manikandan, C. Jaiseeli, D. L. Vikas, C. V. Vardhan, B. V. Sai and R. Srinivas, "Multi-Versatile IoT Tracker for Enhanced Monitoring and Tracking Applications," 2023 7th International Conference on Electronics, Communication and Aerospace Technology (ICECA), Coimbatore, India, 2023, pp. 1579-1585, doi: 10.1109/ICECA58529.2023.10395291. https://ieeexplore.ieee.org/document/10395291
