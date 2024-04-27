@@ -64,7 +64,7 @@ Developed a versatile IoT tracker using **A9G module** and **ESP32C3 microcontro
 
 ## Publications
 
-1. C. Manikandan, C. Jaiseeli, D. L. Vikas, C. V. Vardhan, B. V. Sai and R. Srinivas, "Multi-Versatile IoT Tracker for Enhanced Monitoring and Tracking Applications," 2023 7th International Conference on Electronics, Communication and Aerospace Technology (ICECA), Coimbatore, India, 2023, pp. 1579-1585, doi: 10.1109/ICECA58529.2023.10395291. https://ieeexplore.ieee.org/document/10395291
+1. C. Manikandan, C. Jaiseeli, D. L. Vikas, C. V. Vardhan, B. V. Sai and R. Srinivas, "Multi-Versatile IoT Tracker for Enhanced Monitoring and Tracking Applications," 2023 7th International Conference on Electronics, Communication and Aerospace Technology (ICECA), Coimbatore, India, 2023, pp. 1579-1585, doi: 10.1109/ICECA58529.2023.10395291. [Link](https://ieeexplore.ieee.org/document/10395291)
 
 ## Certifications
 
