@@ -30,7 +30,7 @@ Developed a versatile IoT tracker using **A9G module** and **ESP32C3 microcontro
 
 ### Implementation of Link State Routing and Distance Vector Routing
 
-= Conducted a comprehensive analysis of two well-known routing algorithms, Dijkstra's/Link state Routing and Distance Vector Routing/Bellman Ford's Algorithms, to determine the most efficient path for data transmission
+- Conducted a comprehensive analysis of two well-known routing algorithms, Dijkstra's/Link state Routing and Distance Vector Routing/Bellman Ford's Algorithms, to determine the most efficient path for data transmission
 - Developed detailed code implementations for both algorithms to facilitate practical understanding and application
 - Emphasized the objective of identifying the fastest or optimal route for data transmission through the analysis and implementation of these routing algorithms
 - Successfully demonstrated the impact of these algorithms in improving the efficiency and performance of data transmission processes
