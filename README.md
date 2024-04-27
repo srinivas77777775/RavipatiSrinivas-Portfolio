@@ -1,11 +1,11 @@
 ## Education
-- **B. Tech**, Electronics and Communication Engineering | Sastra Deemed University (2020-2024)								       		
-- **Intermediate**, MPC	| Sri Chaitanya JR College (2018-2020)	 			        		
-- **SSC** | Sri Chaitanya Techno School (2017-2018)
+- **B. Tech**, Electronics and Communication Engineering | Sastra Deemed University (2020-2024)(**8.2875 CGPA**)							       		
+- **Intermediate**, MPC	| Sri Chaitanya JR College (2018-2020)(**97.50 %**)	 			        		
+- **SSC** | Sri Chaitanya Techno School (2017-2018)(**9.7 GPA**)
 
-### Technical Skills
+## Technical Skills
 - **Languages** : C, C++, Java, Python, SQL
-- Data structures and Algorithms, Database Management System
+- Data structures and Algorithms, Machine Learning, Database Management System
 - Matlab, AutoCAD, knowledge in IOT and programming for Arduino & ESP32
 - **Tools** : NetBeans , Eclipse IDE, PyCharm, ModelSim, Android Studio
 
@@ -61,3 +61,22 @@ Developed a versatile IoT tracker using **A9G module** and **ESP32C3 microcontro
 ## Publications
 
 1. C. Manikandan, C. Jaiseeli, D. L. Vikas, C. V. Vardhan, B. V. Sai and R. Srinivas, "Multi-Versatile IoT Tracker for Enhanced Monitoring and Tracking Applications," 2023 7th International Conference on Electronics, Communication and Aerospace Technology (ICECA), Coimbatore, India, 2023, pp. 1579-1585, doi: 10.1109/ICECA58529.2023.10395291. https://ieeexplore.ieee.org/document/10395291
+
+## Certifications
+
+- Machine Learning with python course offered by verzeo.[Certificate](https://drive.google.com/file/d/1B9VK0UhRy-MiSavTv7TKV0XoJLtGjQH5/view?usp=drivesdk)
+- DataVisualization using Python course offered by Great Learning.[Certificate](https://drive.google.com/file/d/1BG7dlhSbn3vgOU_APRpI6KqoBqBoDleK/view?usp=drivesdk)
+- Cloud Computing course offered by NPTEL.[Certificate](https://drive.google.com/file/d/1On6GloTMuV_S0w3xWYKYdEb7lTVjALis/view?usp=drivesdk)
+- Python course offered by GUVI Geek Networks.[Certificate](https://drive.google.com/file/d/1BKUkYyltReSmIInG4NsCTol3bq1ia5kJ/view?usp=drivesdk)
+- Database Management System course offered by Great Learning.[Certificate](https://drive.google.com/file/d/1BJrcPLx1qQmRnL83ESxP6guZeF86PFYj/view?usp=drivesdk)
+
+## Impersonal Skills
+
+- Teamwork
+- Time Management
+- Communication
+- Active Listening
+- Critical Thinking
+- Problem Solving
+
+
